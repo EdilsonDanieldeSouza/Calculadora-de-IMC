@@ -1,0 +1,133 @@
+object FrmResultado: TFrmResultado
+  Left = 398
+  Top = 222
+  Caption = 'Resultado'
+  ClientHeight = 329
+  ClientWidth = 663
+  Color = clBtnFace
+  Font.Charset = ANSI_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -21
+  Font.Name = 'Roboto'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesigned
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 25
+  object Label1: TLabel
+    Left = 31
+    Top = 64
+    Width = 202
+    Height = 38
+    Caption = 'Altura............:'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 31
+    Top = 128
+    Width = 197
+    Height = 38
+    Caption = 'Peso.............:'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 31
+    Top = 188
+    Width = 196
+    Height = 38
+    Caption = 'Sexo.............:'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Label4: TLabel
+    Left = 31
+    Top = 259
+    Width = 198
+    Height = 38
+    Caption = 'IMC.............  :'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object LblAltura: TLabel
+    Left = 295
+    Top = 64
+    Width = 86
+    Height = 38
+    Caption = 'Altura'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object LblPeso: TLabel
+    Left = 295
+    Top = 128
+    Width = 72
+    Height = 38
+    Caption = 'Peso'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object LblImc: TLabel
+    Left = 295
+    Top = 259
+    Width = 54
+    Height = 38
+    Caption = 'Imc'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object LblSexo: TLabel
+    Left = 295
+    Top = 188
+    Width = 71
+    Height = 38
+    Caption = 'Sexo'
+    Font.Charset = ANSI_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -32
+    Font.Name = 'Roboto'
+    Font.Style = []
+    ParentFont = False
+  end
+  object Panel1: TPanel
+    Left = 0
+    Top = 0
+    Width = 663
+    Height = 41
+    Align = alTop
+    Caption = 'Seu '#237'ndice de massa corporal '#233':'
+    TabOrder = 0
+    ExplicitTop = 8
+    ExplicitWidth = 422
+  end
+end

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.592,=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.516,=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.037,=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.697,=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.051,=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 11:47:20.794,=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 11:48:02.881,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\uFrmPrincipal.dfm=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021-07-12 11:48:02.881,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\uFrmPrincipal.pas=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 11:48:20.658,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Calculadora.dproj=C:\Users\edils\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021-07-12 13:06:52.516,=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 13:07:05.948,=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 13:07:49.454,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\uFrmRequesitos.pas=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 13:07:49.454,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\uFrmRequesitos.dfm=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.dfm</Transaction>
+    <Transaction>2021-07-12 13:41:39.922,=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 13:42:14.536,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\uFrmResultado.pas=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 13:42:14.536,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\uFrmResultado.dfm=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.dfm</Transaction>
+    <Transaction>2021-07-12 13:51:50.052,=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.pas</Transaction>
+    <Transaction>2021-07-12 13:52:08.968,C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\uDadosPessoais.pas=C:\Users\edils\OneDrive\Área de Trabalho\Edilson\Curso de Delphi\Calculadora de imc 2\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
